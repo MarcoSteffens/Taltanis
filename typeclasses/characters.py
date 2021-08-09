@@ -31,4 +31,37 @@ class Character(DefaultCharacter):
 
     """
 
+    def at_object_creation(self):
+        """
+        Called only at initial creation. This is a rather silly
+        example since ability scores should vary from Character to
+        Character and is usually set during some character
+        generation step instead.
+        """
+        #set persistent attributes
+        self.db.strength = 5
+        self.db.agility = 4
+        self.db.magic = 2
+        self.db.glueck = 0
+        self.db.charisma = 0
+
+        self.db.resilience = 0
+        self.db.karma = 0
+        self.db.hitpoints = 0
+        self.db.spellpoints = 0
+        self.db.endurance = 0   # Ausdauer
+        self.db.mana = 0
+        self.db.essence = 0
+
+        self.db.reputation = 0   # Ansehen
+
+        self.db.inspiration = 0
+
+    def get_abilities(self):
+        """
+        Simple access method to return ability
+        scores as a tuple (str,agi,mag)
+        """
+        return self.db.strength, self.db.agility, self.db.magic
+
     pass

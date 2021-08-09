@@ -1,0 +1,154 @@
+{% comment %}
+Allow to customize the menu that appears at the top of every Evennia
+webpage. Copy this file to your game dir's web/template_overrides/website
+folder and edit it to add/remove links to the menu.
+{% endcomment %}
+{% load static %}
+<nav class="navbar navbar-dark font-weight-bold navbar-expand-md">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#menu-content"
+            aria-controls="menu-content" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <a class="navbar-brand" href="/">
+        <div class="media">
+            <img class="d-flex navbar-brand-logo mx-3" src="{% static "website/images/evennia_logo.png" %}" alt="{{game_name}} logo" />
+            <div class="media-body">
+                {{ game_name }}<br/>
+                <small>{{game_slogan}}</small>
+            </div>
+        </div>
+    </a>
+
+    <div class="collapse navbar-collapse" id="menu-content">
+        <ul class="navbar-nav">
+            {% block navbar_left %}
+            <li>
+                <a class="nav-link" href="{% url 'index' %}">Home</a>
+            </li>
+    <!--li>
+        <a class="nav-link" href="{% url 'Story' %}">Story</a>
+    </li-->
+    <!-- evennia documentation -->
+    <!--
+    <li>
+      <a class="nav-link" href="https://github.com/evennia/evennia/wiki/Evennia-Introduction/">About</a>
+    </li>
+    <li><a class="nav-link" href="https://github.com/evennia/evennia/wiki">Documentation</a></li>
+    -->
+    <!-- end evennia documentation -->
+
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Das Spiel</a>
+        <div class="dropdown-menu">
+            <a class="dropdown-item" href="{% url 'New' %}">Neu hier?</a>
+            <a class="dropdown-item" href="{% url 'Prologue' %}">An die Spielerinnen und Spieler</a>
+            <a class="dropdown-item" href="{% url 'FAQ' %}">FAQ</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="{% url 'Participate' %}">Mitmachen?</a>
+        </div>
+    </li>
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Die Welt</a>
+        <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Regionen</a>
+            <a class="dropdown-item" href="#">Völker</a>
+            <a class="dropdown-item" href="#">Geschichte</a>
+            <a class="dropdown-item" href="#">Gilden</a>
+            <a class="dropdown-item" href="#">Zünfte</a>
+            <a class="dropdown-item" href="#">Seefahrt</a>
+        </div>
+    </li>
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Der Kodex</a>
+        <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Spielervereinbarung</a>
+            <a class="dropdown-item" href="#">Beschreibervereinbarung</a>
+            <a class="dropdown-item" href="#">Entwicklervereinbarung</a>
+            <a class="dropdown-item" href="#">Administratorenvereinbarung</a>
+            <a class="dropdown-item" href="#">Verhaltenskodex</a>
+            <a class="dropdown-item" href="#">Spielerrechte</a>
+        </div>
+    </li>
+
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Der Almanach</a>
+        <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Zeitung</a>
+            <a class="dropdown-item" href="/wiki">Wiki</a>
+            <a class="dropdown-item" href="{% url 'help' %}">Hilfe</a>
+            <a class="dropdown-item" href="#">Blogs</a>
+            <a class="dropdown-item" href="#">Letzte Änderungen</a>
+        </div>
+    </li>
+    <!--li>
+         <a class="nav-link" href="/wiki">Der Almanach</a>
+
+    </li>
+    <li>
+         <a class="nav-link" href="{% url 'index' %}">Blog</a>
+
+    </li-->
+    <!-- game views -->
+    <!--
+    <li><a class="nav-link" href="{% url 'characters' %}">Characters</a></li>
+    <li><a class="nav-link" href="{% url 'channels' %}">Channels</a></li>
+    <li><a class="nav-link" href="{% url 'help' %}">Help</a></li>
+    -->
+    <!-- end game views -->
+
+    {% if webclient_enabled %}
+    <li><a class="nav-link" href="{% url 'webclient:index' %}" target="_blank">Jetzt spielen!</a></li>
+    {% endif %}
+
+    {% if user.is_staff %}
+    <li><a class="nav-link" href="{% url 'admin:index' %}">Admin</a></li>
+    {% endif %}
+    {% endblock %}
+    </ul>
+    <ul class="nav navbar-nav ml-auto w-120 justify-content-end">
+        {% block navbar_right %}
+        {% endblock %}
+
+        {% block navbar_user %}
+        {% if account %}
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="user_options"
+               aria-expanded="false">
+                {% if puppet %}
+                Welcome, {{ puppet }}! <span class="text-muted">({{ account.username }})</span> <span
+                    class="caret"></span>
+                {% else %}
+                Logged in as {{ account.username }} <span class="caret"></span>
+                {% endif %}
+            </a>
+            <div class="dropdown-menu" aria-labelledby="user_options">
+                <a class="dropdown-item" href="{% url 'character-create' %}">Create Character</a>
+                <a class="dropdown-item" href="{% url 'character-manage' %}">Manage Characters</a>
+                <div class="dropdown-divider"></div>
+                {% for character in account.characters|slice:"10" %}
+                <a class="dropdown-item" href="{{ character.web_get_puppet_url }}?next={{ request.path }}">{{
+                    character }}</a>
+                {% empty %}
+                <a class="dropdown-item" href="#">No characters found!</a>
+                {% endfor %}
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="{% url 'password_change' %}">Change Password</a>
+                <a class="dropdown-item" href="{% url 'logout' %}">Log Out</a>
+            </div>
+        </li>
+        <li>
+            <a class="nav-link" href="{% url 'logout' %}">Log Out</a>
+        </li>
+        {% else %}
+        <li>
+            <a class="nav-link" href="{% url 'login' %}?next={{ request.path }}">Log In</a>
+        </li>
+        <li>
+            <a class="nav-link" href="{% url 'register' %}">Register</a>
+        </li>
+        {% endif %}
+        {% endblock %}
+    </ul>
+    </div>
+</nav>

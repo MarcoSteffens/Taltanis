@@ -1,0 +1,966 @@
+21-08-01 21:38:21+02  |Portal| Loading D:\Taltanis_DEV\evennia\evennia\server\portal\portal.py...
+21-08-01 21:38:24+02  |Portal| Loaded.
+21-08-01 21:38:24+02  |Portal| twistd 21.2.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-01 21:38:24+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-01 21:38:24+02  |Portal| AMP starting on 4006
+21-08-01 21:38:24+02  |Portal| Telnet starting on 4000
+21-08-01 21:38:24+02  |Portal| Websocket starting on 4002
+21-08-01 21:38:24+02  |Portal| Webserver-proxy starting on 4001
+21-08-01 21:38:24+02  |Portal| Portal starting server ... 
+21-08-01 21:39:33+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53301)
+21-08-01 21:39:33+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=61502)
+21-08-01 21:39:33+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55894)
+21-08-01 21:42:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60168)
+21-08-01 21:42:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=52953)
+21-08-01 21:42:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60731)
+21-08-01 21:42:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59918)
+21-08-01 21:42:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53944)
+21-08-01 21:42:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56603)
+21-08-01 21:54:39+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53466)
+21-08-01 21:54:39+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63539)
+21-08-01 21:54:39+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54668)
+21-08-01 21:54:39+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=62605)
+21-08-01 21:54:39+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59567)
+21-08-01 21:54:56+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=61244)
+21-08-01 22:08:33+02  |Portal| (TCP Port 4001 Closed)
+21-08-01 22:08:33+02  |Portal| (TCP Port 4000 Closed)
+21-08-01 22:08:33+02  |Portal| (TCP Port 4006 Closed)
+21-08-01 22:08:33+02  |Portal| (TCP Port 4002 Closed)
+21-08-01 22:08:33+02  |Portal| Main loop terminated.
+21-08-01 22:08:33+02  |Portal| Server Shut Down.
+21-08-01 22:08:33+02  |Portal| Server Shut Down.
+21-08-01 22:08:41+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-01 22:08:42+02  |Portal| Loaded.
+21-08-01 22:08:42+02  |Portal| twistd 21.2.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-01 22:08:42+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-01 22:08:42+02  |Portal| AMP starting on 4006
+21-08-01 22:08:42+02  |Portal| Telnet starting on 4000
+21-08-01 22:08:42+02  |Portal| Websocket starting on 4002
+21-08-01 22:08:42+02  |Portal| Webserver-proxy starting on 4001
+21-08-01 22:08:43+02  |Portal| Portal starting server ... 
+21-08-01 22:09:55+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53674)
+21-08-01 22:10:27+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=52400)
+21-08-01 22:16:36+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59551)
+21-08-01 22:16:57+02  |Portal| (TCP Port 4001 Closed)
+21-08-01 22:16:57+02  |Portal| (TCP Port 4002 Closed)
+21-08-01 22:16:57+02  |Portal| (TCP Port 4000 Closed)
+21-08-01 22:16:57+02  |Portal| (TCP Port 4006 Closed)
+21-08-01 22:16:57+02  |Portal| Main loop terminated.
+21-08-01 22:16:57+02  |Portal| Server Shut Down.
+21-08-01 22:16:57+02  |Portal| Server Shut Down.
+21-08-01 22:17:06+02  |Portal| Loading D:\Taltanis_DEV\evennia\evennia\server\portal\portal.py...
+21-08-01 22:17:08+02  |Portal| Loaded.
+21-08-01 22:17:08+02  |Portal| twistd 21.2.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-01 22:17:08+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-01 22:17:08+02  |Portal| AMP starting on 4006
+21-08-01 22:17:08+02  |Portal| Telnet starting on 4000
+21-08-01 22:17:08+02  |Portal| Websocket starting on 4002
+21-08-01 22:17:08+02  |Portal| Webserver-proxy starting on 4001
+21-08-01 22:17:08+02  |Portal| Portal starting server ... 
+21-08-01 22:18:11+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60141)
+21-08-01 22:18:14+02  |Portal| (TCP Port 4001 Closed)
+21-08-01 22:18:14+02  |Portal| (TCP Port 4002 Closed)
+21-08-01 22:18:14+02  |Portal| (TCP Port 4006 Closed)
+21-08-01 22:18:14+02  |Portal| (TCP Port 4000 Closed)
+21-08-01 22:18:14+02  |Portal| Main loop terminated.
+21-08-01 22:18:14+02  |Portal| Server Shut Down.
+21-08-01 22:18:14+02  |Portal| Server Shut Down.
+21-08-01 22:18:26+02  |Portal| Loading D:\Taltanis_DEV\evennia\evennia\server\portal\portal.py...
+21-08-01 22:18:28+02  |Portal| Loaded.
+21-08-01 22:18:28+02  |Portal| twistd 21.2.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-01 22:18:28+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-01 22:18:28+02  |Portal| AMP starting on 4006
+21-08-01 22:18:28+02  |Portal| Telnet starting on 4000
+21-08-01 22:18:28+02  |Portal| Websocket starting on 4002
+21-08-01 22:18:28+02  |Portal| Webserver-proxy starting on 4001
+21-08-01 22:18:28+02  |Portal| Portal starting server ... 
+21-08-01 22:19:35+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58195)
+21-08-01 22:19:35+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=50890)
+21-08-01 22:52:50+02  |Portal| (TCP Port 4001 Closed)
+21-08-01 22:52:50+02  |Portal| (TCP Port 4002 Closed)
+21-08-01 22:52:50+02  |Portal| (TCP Port 4006 Closed)
+21-08-01 22:52:50+02  |Portal| (TCP Port 4000 Closed)
+21-08-01 22:52:50+02  |Portal| Main loop terminated.
+21-08-01 22:52:50+02  |Portal| Server Shut Down.
+21-08-01 22:52:50+02  |Portal| Server Shut Down.
+21-08-01 22:53:02+02  |Portal| Loading D:\Taltanis_DEV\evennia\evennia\server\portal\portal.py...
+21-08-01 22:53:04+02  |Portal| Loaded.
+21-08-01 22:53:04+02  |Portal| twistd 21.2.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-01 22:53:04+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-01 22:53:04+02  |Portal| AMP starting on 4006
+21-08-01 22:53:04+02  |Portal| Telnet starting on 4000
+21-08-01 22:53:04+02  |Portal| Websocket starting on 4002
+21-08-01 22:53:04+02  |Portal| Webserver-proxy starting on 4001
+21-08-01 22:53:04+02  |Portal| Portal starting server ... 
+21-08-01 22:54:07+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=65307)
+21-08-01 22:54:09+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=51807)
+21-08-01 22:55:32+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=64392)
+21-08-01 22:55:57+02  |Portal| (TCP Port 4001 Closed)
+21-08-01 22:55:57+02  |Portal| (TCP Port 4002 Closed)
+21-08-01 22:55:57+02  |Portal| (TCP Port 4000 Closed)
+21-08-01 22:55:57+02  |Portal| (TCP Port 4006 Closed)
+21-08-01 22:55:57+02  |Portal| Main loop terminated.
+21-08-01 22:55:57+02  |Portal| Server Shut Down.
+21-08-01 22:55:57+02  |Portal| Server Shut Down.
+21-08-01 22:56:09+02  |Portal| Loading D:\Taltanis_DEV\evennia\evennia\server\portal\portal.py...
+21-08-01 22:56:11+02  |Portal| Loaded.
+21-08-01 22:56:11+02  |Portal| twistd 21.2.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-01 22:56:11+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-01 22:56:11+02  |Portal| AMP starting on 4006
+21-08-01 22:56:11+02  |Portal| Telnet starting on 4000
+21-08-01 22:56:11+02  |Portal| Websocket starting on 4002
+21-08-01 22:56:11+02  |Portal| Webserver-proxy starting on 4001
+21-08-01 22:56:11+02  |Portal| Portal starting server ... 
+21-08-01 22:57:13+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58289)
+21-08-01 22:57:51+02  |Portal| (TCP Port 4001 Closed)
+21-08-01 22:57:51+02  |Portal| (TCP Port 4002 Closed)
+21-08-01 22:57:51+02  |Portal| (TCP Port 4000 Closed)
+21-08-01 22:57:51+02  |Portal| (TCP Port 4006 Closed)
+21-08-01 22:57:51+02  |Portal| Main loop terminated.
+21-08-01 22:57:51+02  |Portal| Server Shut Down.
+21-08-01 22:57:51+02  |Portal| Server Shut Down.
+21-08-01 22:58:57+02  |Portal| Loading D:\Taltanis_DEV\evennia\evennia\server\portal\portal.py...
+21-08-01 22:58:58+02  |Portal| Loaded.
+21-08-01 22:58:58+02  |Portal| twistd 21.2.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-01 22:58:58+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-01 22:58:58+02  |Portal| AMP starting on 4006
+21-08-01 22:58:58+02  |Portal| Telnet starting on 4000
+21-08-01 22:58:58+02  |Portal| Websocket starting on 4002
+21-08-01 22:58:58+02  |Portal| Webserver-proxy starting on 4001
+21-08-03 09:41:47+02  |Portal| Portal starting server ... 
+21-08-03 09:42:45+02  |Portal| (TCP Port 4001 Closed)
+21-08-03 09:42:45+02  |Portal| (TCP Port 4002 Closed)
+21-08-03 09:42:45+02  |Portal| (TCP Port 4000 Closed)
+21-08-03 09:42:45+02  |Portal| (TCP Port 4006 Closed)
+21-08-03 09:42:45+02  |Portal| Main loop terminated.
+21-08-03 09:42:45+02  |Portal| Server Shut Down.
+21-08-03 09:42:45+02  |Portal| Server Shut Down.
+21-08-03 09:42:53+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-03 09:42:55+02  |Portal| Loaded.
+21-08-03 09:42:55+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-03 09:42:55+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-03 09:42:55+02  |Portal| AMP starting on 4006
+21-08-03 09:42:55+02  |Portal| Telnet starting on 4000
+21-08-03 09:42:55+02  |Portal| Websocket starting on 4002
+21-08-03 09:42:55+02  |Portal| Webserver-proxy starting on 4001
+21-08-03 09:42:55+02  |Portal| Portal starting server ... 
+21-08-03 09:43:50+02  |Portal| (TCP Port 4001 Closed)
+21-08-03 09:43:50+02  |Portal| (TCP Port 4002 Closed)
+21-08-03 09:43:50+02  |Portal| (TCP Port 4000 Closed)
+21-08-03 09:43:50+02  |Portal| (TCP Port 4006 Closed)
+21-08-03 09:43:50+02  |Portal| Main loop terminated.
+21-08-03 09:43:50+02  |Portal| Server Shut Down.
+21-08-03 09:43:50+02  |Portal| Server Shut Down.
+21-08-03 09:44:04+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-03 09:44:05+02  |Portal| Loaded.
+21-08-03 09:44:05+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-03 09:44:05+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-03 09:44:05+02  |Portal| AMP starting on 4006
+21-08-03 09:44:05+02  |Portal| Telnet starting on 4000
+21-08-03 09:44:05+02  |Portal| Websocket starting on 4002
+21-08-03 09:44:05+02  |Portal| Webserver-proxy starting on 4001
+21-08-03 09:44:06+02  |Portal| Portal starting server ... 
+21-08-03 09:49:13+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53856)
+21-08-03 09:55:39+02  |Portal| Portal starting server ... 
+21-08-03 09:56:49+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=61339)
+21-08-03 09:57:03+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59290)
+21-08-03 09:58:17+02  |Portal| Portal starting server ... 
+21-08-03 09:59:25+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57907)
+21-08-03 09:59:33+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49435)
+21-08-03 11:26:37+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59582)
+21-08-03 11:26:37+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54458)
+21-08-03 16:18:19+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49453)
+21-08-03 16:18:21+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49155)
+21-08-09 11:31:17+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 11:31:20+02  |Portal| Loaded.
+21-08-09 11:31:20+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 11:31:20+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 11:31:20+02  |Portal| AMP starting on 4006
+21-08-09 11:31:20+02  |Portal| Telnet starting on 4000
+21-08-09 11:31:20+02  |Portal| Websocket starting on 4002
+21-08-09 11:31:20+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 11:31:20+02  |Portal| Portal starting server ... 
+21-08-09 11:32:30+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=64802)
+21-08-09 11:32:30+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=65386)
+21-08-09 11:33:16+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=64161)
+21-08-09 11:56:09+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59647)
+21-08-09 11:56:09+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53826)
+21-08-09 11:59:01+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=64841)
+21-08-09 11:59:02+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60114)
+21-08-09 12:03:34+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53515)
+21-08-09 12:03:34+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54876)
+21-08-09 12:07:11+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=52257)
+21-08-09 12:07:11+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=62367)
+21-08-09 12:07:54+02  |Portal| Portal starting server ... 
+21-08-09 12:08:21+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:08:21+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:08:21+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:08:21+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:08:21+02  |Portal| Main loop terminated.
+21-08-09 12:08:21+02  |Portal| Server Shut Down.
+21-08-09 12:08:21+02  |Portal| Server Shut Down.
+21-08-09 12:08:28+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 12:08:29+02  |Portal| Loaded.
+21-08-09 12:08:29+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:08:29+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:08:29+02  |Portal| AMP starting on 4006
+21-08-09 12:08:29+02  |Portal| Telnet starting on 4000
+21-08-09 12:08:29+02  |Portal| Websocket starting on 4002
+21-08-09 12:08:29+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:08:29+02  |Portal| Portal starting server ... 
+21-08-09 12:08:42+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:08:42+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:08:42+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:08:42+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:08:42+02  |Portal| Main loop terminated.
+21-08-09 12:08:42+02  |Portal| Server Shut Down.
+21-08-09 12:08:42+02  |Portal| Server Shut Down.
+21-08-09 12:08:53+02  |Portal| Loading D:\Taltanis_DEV\evennia\evennia\server\portal\portal.py...
+21-08-09 12:08:54+02  |Portal| Loaded.
+21-08-09 12:08:54+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:08:54+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:08:54+02  |Portal| AMP starting on 4006
+21-08-09 12:08:54+02  |Portal| Telnet starting on 4000
+21-08-09 12:08:54+02  |Portal| Websocket starting on 4002
+21-08-09 12:08:54+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:08:54+02  |Portal| Portal starting server ... 
+21-08-09 12:10:13+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59372)
+21-08-09 12:10:18+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59057)
+21-08-09 12:10:19+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:10:19+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:10:19+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:10:19+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:10:19+02  |Portal| Main loop terminated.
+21-08-09 12:10:19+02  |Portal| Server Shut Down.
+21-08-09 12:10:19+02  |Portal| Server Shut Down.
+21-08-09 12:10:53+02  |Portal| Loading D:\Taltanis_DEV\evennia\evennia\server\portal\portal.py...
+21-08-09 12:10:55+02  |Portal| Loaded.
+21-08-09 12:10:55+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:10:55+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:10:55+02  |Portal| AMP starting on 4006
+21-08-09 12:10:55+02  |Portal| Telnet starting on 4000
+21-08-09 12:10:55+02  |Portal| Websocket starting on 4002
+21-08-09 12:10:55+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:10:55+02  |Portal| Portal starting server ... 
+21-08-09 12:12:05+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49928)
+21-08-09 12:12:09+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49385)
+21-08-09 12:15:43+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=64823)
+21-08-09 12:15:49+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63020)
+21-08-09 12:18:12+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:18:12+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:18:12+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:18:12+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:18:12+02  |Portal| Main loop terminated.
+21-08-09 12:18:12+02  |Portal| Server Shut Down.
+21-08-09 12:18:12+02  |Portal| Server Shut Down.
+21-08-09 12:18:25+02  |Portal| Loading D:\Taltanis_DEV\evennia\evennia\server\portal\portal.py...
+21-08-09 12:18:26+02  |Portal| Loaded.
+21-08-09 12:18:26+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:18:26+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:18:26+02  |Portal| AMP starting on 4006
+21-08-09 12:18:26+02  |Portal| Telnet starting on 4000
+21-08-09 12:18:26+02  |Portal| Websocket starting on 4002
+21-08-09 12:18:26+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:18:26+02  |Portal| Portal starting server ... 
+21-08-09 12:19:39+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59420)
+21-08-09 12:19:39+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=62783)
+21-08-09 12:20:59+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:20:59+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:20:59+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:20:59+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:20:59+02  |Portal| Main loop terminated.
+21-08-09 12:20:59+02  |Portal| Server Shut Down.
+21-08-09 12:20:59+02  |Portal| Server Shut Down.
+21-08-09 12:21:16+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 12:21:18+02  |Portal| Loaded.
+21-08-09 12:21:18+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:21:18+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:21:18+02  |Portal| AMP starting on 4006
+21-08-09 12:21:18+02  |Portal| Telnet starting on 4000
+21-08-09 12:21:18+02  |Portal| Websocket starting on 4002
+21-08-09 12:21:18+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:21:18+02  |Portal| Portal starting server ... 
+21-08-09 12:22:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49188)
+21-08-09 12:22:27+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=62477)
+21-08-09 12:23:00+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:23:00+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:23:00+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:23:00+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:23:00+02  |Portal| Main loop terminated.
+21-08-09 12:23:00+02  |Portal| Server Shut Down.
+21-08-09 12:23:00+02  |Portal| Server Shut Down.
+21-08-09 12:23:06+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 12:23:07+02  |Portal| Loaded.
+21-08-09 12:23:07+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:23:07+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:23:07+02  |Portal| AMP starting on 4006
+21-08-09 12:23:07+02  |Portal| Telnet starting on 4000
+21-08-09 12:23:07+02  |Portal| Websocket starting on 4002
+21-08-09 12:23:07+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:23:07+02  |Portal| Portal starting server ... 
+21-08-09 12:24:12+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53568)
+21-08-09 12:24:35+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58375)
+21-08-09 12:25:53+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:25:53+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:25:53+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:25:53+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:25:53+02  |Portal| Main loop terminated.
+21-08-09 12:25:53+02  |Portal| Server Shut Down.
+21-08-09 12:25:53+02  |Portal| Server Shut Down.
+21-08-09 12:25:58+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 12:26:00+02  |Portal| Loaded.
+21-08-09 12:26:00+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:26:00+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:26:00+02  |Portal| AMP starting on 4006
+21-08-09 12:26:00+02  |Portal| Telnet starting on 4000
+21-08-09 12:26:00+02  |Portal| Websocket starting on 4002
+21-08-09 12:26:00+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:26:00+02  |Portal| Portal starting server ... 
+21-08-09 12:27:07+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49566)
+21-08-09 12:27:09+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63255)
+21-08-09 12:28:28+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:28:28+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:28:28+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:28:28+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:28:28+02  |Portal| Main loop terminated.
+21-08-09 12:28:28+02  |Portal| Server Shut Down.
+21-08-09 12:28:28+02  |Portal| Server Shut Down.
+21-08-09 12:36:24+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 12:36:25+02  |Portal| Loaded.
+21-08-09 12:36:25+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:36:25+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:36:25+02  |Portal| AMP starting on 4006
+21-08-09 12:36:25+02  |Portal| Telnet starting on 4000
+21-08-09 12:36:25+02  |Portal| Websocket starting on 4002
+21-08-09 12:36:25+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:36:25+02  |Portal| Portal starting server ... 
+21-08-09 12:37:32+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=62480)
+21-08-09 12:37:39+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=64308)
+21-08-09 12:41:01+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:41:01+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:41:01+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:41:01+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:41:01+02  |Portal| Main loop terminated.
+21-08-09 12:41:01+02  |Portal| Server Shut Down.
+21-08-09 12:41:01+02  |Portal| Server Shut Down.
+21-08-09 12:41:07+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 12:41:08+02  |Portal| Loaded.
+21-08-09 12:41:08+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:41:08+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:41:08+02  |Portal| AMP starting on 4006
+21-08-09 12:41:08+02  |Portal| Telnet starting on 4000
+21-08-09 12:41:08+02  |Portal| Websocket starting on 4002
+21-08-09 12:41:08+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:41:09+02  |Portal| Portal starting server ... 
+21-08-09 12:42:13+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=52244)
+21-08-09 12:42:17+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60015)
+21-08-09 12:43:28+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63346)
+21-08-09 12:43:47+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49988)
+21-08-09 12:53:08+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:53:08+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:53:08+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:53:08+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:53:08+02  |Portal| Main loop terminated.
+21-08-09 12:53:08+02  |Portal| Server Shut Down.
+21-08-09 12:53:08+02  |Portal| Server Shut Down.
+21-08-09 12:53:16+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 12:53:17+02  |Portal| Loaded.
+21-08-09 12:53:17+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:53:17+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:53:17+02  |Portal| AMP starting on 4006
+21-08-09 12:53:17+02  |Portal| Telnet starting on 4000
+21-08-09 12:53:17+02  |Portal| Websocket starting on 4002
+21-08-09 12:53:17+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:53:17+02  |Portal| Portal starting server ... 
+21-08-09 12:54:29+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60480)
+21-08-09 12:54:49+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:54:49+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:54:49+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:54:49+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:54:49+02  |Portal| Main loop terminated.
+21-08-09 12:54:49+02  |Portal| Server Shut Down.
+21-08-09 12:54:49+02  |Portal| Server Shut Down.
+21-08-09 12:55:03+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 12:55:04+02  |Portal| Loaded.
+21-08-09 12:55:04+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:55:04+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:55:04+02  |Portal| AMP starting on 4006
+21-08-09 12:55:04+02  |Portal| Telnet starting on 4000
+21-08-09 12:55:04+02  |Portal| Websocket starting on 4002
+21-08-09 12:55:04+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:55:04+02  |Portal| Portal starting server ... 
+21-08-09 12:56:08+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63073)
+21-08-09 12:56:34+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63291)
+21-08-09 12:58:09+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 12:58:09+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 12:58:09+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 12:58:09+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 12:58:09+02  |Portal| Main loop terminated.
+21-08-09 12:58:09+02  |Portal| Server Shut Down.
+21-08-09 12:58:09+02  |Portal| Server Shut Down.
+21-08-09 12:58:19+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 12:58:20+02  |Portal| Loaded.
+21-08-09 12:58:20+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 12:58:20+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 12:58:20+02  |Portal| AMP starting on 4006
+21-08-09 12:58:20+02  |Portal| Telnet starting on 4000
+21-08-09 12:58:20+02  |Portal| Websocket starting on 4002
+21-08-09 12:58:20+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 12:58:21+02  |Portal| Portal starting server ... 
+21-08-09 12:59:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60353)
+21-08-09 13:00:13+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=65425)
+21-08-09 13:01:00+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 13:01:00+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 13:01:00+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 13:01:00+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 13:01:00+02  |Portal| Main loop terminated.
+21-08-09 13:01:00+02  |Portal| Server Shut Down.
+21-08-09 13:01:00+02  |Portal| Server Shut Down.
+21-08-09 13:01:10+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 13:01:11+02  |Portal| Loaded.
+21-08-09 13:01:11+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 13:01:11+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 13:01:11+02  |Portal| AMP starting on 4006
+21-08-09 13:01:11+02  |Portal| Telnet starting on 4000
+21-08-09 13:01:11+02  |Portal| Websocket starting on 4002
+21-08-09 13:01:11+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 13:01:11+02  |Portal| Portal starting server ... 
+21-08-09 13:02:14+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56318)
+21-08-09 13:02:31+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55498)
+21-08-09 13:04:02+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 13:04:02+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 13:04:02+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 13:04:02+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 13:04:02+02  |Portal| Main loop terminated.
+21-08-09 13:04:02+02  |Portal| Server Shut Down.
+21-08-09 13:04:02+02  |Portal| Server Shut Down.
+21-08-09 13:04:08+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 13:04:09+02  |Portal| Loaded.
+21-08-09 13:04:09+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 13:04:09+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 13:04:09+02  |Portal| AMP starting on 4006
+21-08-09 13:04:09+02  |Portal| Telnet starting on 4000
+21-08-09 13:04:09+02  |Portal| Websocket starting on 4002
+21-08-09 13:04:09+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 13:04:10+02  |Portal| Portal starting server ... 
+21-08-09 13:05:19+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59724)
+21-08-09 13:05:23+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49174)
+21-08-09 13:08:48+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 13:08:48+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 13:08:48+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 13:08:48+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 13:08:48+02  |Portal| Main loop terminated.
+21-08-09 13:08:48+02  |Portal| Server Shut Down.
+21-08-09 13:08:48+02  |Portal| Server Shut Down.
+21-08-09 13:08:54+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 13:08:55+02  |Portal| Loaded.
+21-08-09 13:08:55+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 13:08:55+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 13:08:55+02  |Portal| AMP starting on 4006
+21-08-09 13:08:55+02  |Portal| Telnet starting on 4000
+21-08-09 13:08:55+02  |Portal| Websocket starting on 4002
+21-08-09 13:08:55+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 13:08:56+02  |Portal| Portal starting server ... 
+21-08-09 13:09:17+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 13:09:17+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 13:09:17+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 13:09:17+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 13:09:17+02  |Portal| Main loop terminated.
+21-08-09 13:09:17+02  |Portal| Server Shut Down.
+21-08-09 13:09:17+02  |Portal| Server Shut Down.
+21-08-09 13:16:57+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 13:16:58+02  |Portal| Loaded.
+21-08-09 13:16:58+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 13:16:58+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 13:16:58+02  |Portal| AMP starting on 4006
+21-08-09 13:16:58+02  |Portal| Telnet starting on 4000
+21-08-09 13:16:58+02  |Portal| Websocket starting on 4002
+21-08-09 13:16:58+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 13:16:58+02  |Portal| Portal starting server ... 
+21-08-09 13:18:04+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54436)
+21-08-09 13:18:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63987)
+21-08-09 13:19:34+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 13:19:34+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 13:19:34+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 13:19:34+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 13:19:34+02  |Portal| Main loop terminated.
+21-08-09 13:19:34+02  |Portal| Server Shut Down.
+21-08-09 13:19:34+02  |Portal| Server Shut Down.
+21-08-09 13:19:46+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 13:19:48+02  |Portal| Loaded.
+21-08-09 13:19:48+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 13:19:48+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 13:19:48+02  |Portal| AMP starting on 4006
+21-08-09 13:19:48+02  |Portal| Telnet starting on 4000
+21-08-09 13:19:48+02  |Portal| Websocket starting on 4002
+21-08-09 13:19:48+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 13:19:48+02  |Portal| Portal starting server ... 
+21-08-09 13:20:54+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60369)
+21-08-09 13:21:09+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 13:21:09+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 13:21:09+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 13:21:09+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 13:21:09+02  |Portal| Main loop terminated.
+21-08-09 13:21:09+02  |Portal| Server Shut Down.
+21-08-09 13:21:09+02  |Portal| Server Shut Down.
+21-08-09 13:21:19+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 13:21:20+02  |Portal| Loaded.
+21-08-09 13:21:20+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 13:21:20+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 13:21:20+02  |Portal| AMP starting on 4006
+21-08-09 13:21:20+02  |Portal| Telnet starting on 4000
+21-08-09 13:21:20+02  |Portal| Websocket starting on 4002
+21-08-09 13:21:20+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 13:21:21+02  |Portal| Portal starting server ... 
+21-08-09 13:22:26+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54567)
+21-08-09 13:22:32+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53088)
+21-08-09 13:24:46+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 13:24:46+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 13:24:46+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 13:24:46+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 13:24:46+02  |Portal| Main loop terminated.
+21-08-09 13:24:46+02  |Portal| Server Shut Down.
+21-08-09 13:24:46+02  |Portal| Server Shut Down.
+21-08-09 13:24:51+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 13:24:53+02  |Portal| Loaded.
+21-08-09 13:24:53+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 13:24:53+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 13:24:53+02  |Portal| AMP starting on 4006
+21-08-09 13:24:53+02  |Portal| Telnet starting on 4000
+21-08-09 13:24:53+02  |Portal| Websocket starting on 4002
+21-08-09 13:24:53+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 13:24:53+02  |Portal| Portal starting server ... 
+21-08-09 13:26:06+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60279)
+21-08-09 13:26:30+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55463)
+21-08-09 13:26:53+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 13:26:53+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 13:26:53+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 13:26:53+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 13:26:53+02  |Portal| Main loop terminated.
+21-08-09 13:26:53+02  |Portal| Server Shut Down.
+21-08-09 13:26:53+02  |Portal| Server Shut Down.
+21-08-09 13:26:58+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 13:27:00+02  |Portal| Loaded.
+21-08-09 13:27:00+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 13:27:00+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 13:27:00+02  |Portal| AMP starting on 4006
+21-08-09 13:27:00+02  |Portal| Telnet starting on 4000
+21-08-09 13:27:00+02  |Portal| Websocket starting on 4002
+21-08-09 13:27:00+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 13:27:00+02  |Portal| Portal starting server ... 
+21-08-09 13:28:04+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58689)
+21-08-09 13:28:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=62095)
+21-08-09 13:35:35+02  |Portal| Portal starting server ... 
+21-08-09 13:36:23+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=61432)
+21-08-09 13:37:12+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55881)
+21-08-09 13:52:50+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54798)
+21-08-09 13:53:14+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56379)
+21-08-09 13:55:40+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 13:55:40+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 13:55:40+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 13:55:40+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 13:55:40+02  |Portal| Main loop terminated.
+21-08-09 13:55:40+02  |Portal| Server Shut Down.
+21-08-09 13:55:40+02  |Portal| Server Shut Down.
+21-08-09 13:55:51+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 13:55:52+02  |Portal| Loaded.
+21-08-09 13:55:52+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 13:55:52+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 13:55:52+02  |Portal| AMP starting on 4006
+21-08-09 13:55:52+02  |Portal| Telnet starting on 4000
+21-08-09 13:55:52+02  |Portal| Websocket starting on 4002
+21-08-09 13:55:52+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 13:55:53+02  |Portal| Portal starting server ... 
+21-08-09 13:57:03+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=50260)
+21-08-09 13:57:46+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56519)
+21-08-09 14:01:48+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 14:01:48+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 14:01:48+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 14:01:48+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 14:01:48+02  |Portal| Main loop terminated.
+21-08-09 14:01:48+02  |Portal| Server Shut Down.
+21-08-09 14:01:48+02  |Portal| Server Shut Down.
+21-08-09 14:01:54+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 14:01:56+02  |Portal| Loaded.
+21-08-09 14:01:56+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 14:01:56+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 14:01:56+02  |Portal| AMP starting on 4006
+21-08-09 14:01:56+02  |Portal| Telnet starting on 4000
+21-08-09 14:01:56+02  |Portal| Websocket starting on 4002
+21-08-09 14:01:56+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 14:01:56+02  |Portal| Portal starting server ... 
+21-08-09 14:03:02+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58713)
+21-08-09 14:03:03+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59480)
+21-08-09 14:06:49+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 14:06:49+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 14:06:49+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 14:06:49+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 14:06:49+02  |Portal| Main loop terminated.
+21-08-09 14:06:49+02  |Portal| Server Shut Down.
+21-08-09 14:06:49+02  |Portal| Server Shut Down.
+21-08-09 14:07:00+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 14:07:02+02  |Portal| Loaded.
+21-08-09 14:07:02+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 14:07:02+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 14:07:02+02  |Portal| AMP starting on 4006
+21-08-09 14:07:02+02  |Portal| Telnet starting on 4000
+21-08-09 14:07:02+02  |Portal| Websocket starting on 4002
+21-08-09 14:07:02+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 14:07:02+02  |Portal| Portal starting server ... 
+21-08-09 14:10:29+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 14:10:29+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 14:10:29+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 14:10:29+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 14:10:29+02  |Portal| Main loop terminated.
+21-08-09 14:10:29+02  |Portal| Server Shut Down.
+21-08-09 14:10:29+02  |Portal| Server Shut Down.
+21-08-09 14:10:35+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 14:10:36+02  |Portal| Loaded.
+21-08-09 14:10:36+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 14:10:36+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 14:10:36+02  |Portal| AMP starting on 4006
+21-08-09 14:10:36+02  |Portal| Telnet starting on 4000
+21-08-09 14:10:36+02  |Portal| Websocket starting on 4002
+21-08-09 14:10:36+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 14:10:36+02  |Portal| Portal starting server ... 
+21-08-09 14:11:50+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63222)
+21-08-09 14:11:50+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56234)
+21-08-09 14:17:37+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58675)
+21-08-09 14:17:37+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63042)
+21-08-09 14:17:37+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=65133)
+21-08-09 14:18:39+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60843)
+21-08-09 14:19:51+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57294)
+21-08-09 14:20:47+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60255)
+21-08-09 14:23:45+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59389)
+21-08-09 14:28:44+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=61623)
+21-08-09 14:31:09+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49928)
+21-08-09 14:31:09+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49625)
+21-08-09 14:32:31+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49461)
+21-08-09 14:32:31+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54834)
+21-08-09 17:37:00+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55146)
+21-08-09 17:37:00+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63339)
+21-08-09 17:37:00+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58090)
+21-08-09 17:38:32+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=61962)
+21-08-09 17:38:32+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=51941)
+21-08-09 17:41:35+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55995)
+21-08-09 17:41:35+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59409)
+21-08-09 17:43:09+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 17:43:09+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 17:43:09+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 17:43:09+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 17:43:09+02  |Portal| Main loop terminated.
+21-08-09 17:43:09+02  |Portal| Server Shut Down.
+21-08-09 17:43:09+02  |Portal| Server Shut Down.
+21-08-09 17:43:16+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 17:43:17+02  |Portal| Loaded.
+21-08-09 17:43:17+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 17:43:17+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 17:43:17+02  |Portal| AMP starting on 4006
+21-08-09 17:43:17+02  |Portal| Telnet starting on 4000
+21-08-09 17:43:17+02  |Portal| Websocket starting on 4002
+21-08-09 17:43:17+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 17:43:17+02  |Portal| Portal starting server ... 
+21-08-09 17:44:23+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49676)
+21-08-09 17:44:31+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57028)
+21-08-09 17:47:01+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 17:47:01+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 17:47:01+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 17:47:01+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 17:47:01+02  |Portal| Main loop terminated.
+21-08-09 17:47:01+02  |Portal| Server Shut Down.
+21-08-09 17:47:01+02  |Portal| Server Shut Down.
+21-08-09 17:47:07+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 17:47:08+02  |Portal| Loaded.
+21-08-09 17:47:08+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 17:47:08+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 17:47:08+02  |Portal| AMP starting on 4006
+21-08-09 17:47:08+02  |Portal| Telnet starting on 4000
+21-08-09 17:47:08+02  |Portal| Websocket starting on 4002
+21-08-09 17:47:08+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 17:47:08+02  |Portal| Portal starting server ... 
+21-08-09 17:48:17+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=52521)
+21-08-09 17:48:17+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=50775)
+21-08-09 17:48:33+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 17:48:33+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 17:48:33+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 17:48:33+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 17:48:33+02  |Portal| Main loop terminated.
+21-08-09 17:48:33+02  |Portal| Server Shut Down.
+21-08-09 17:48:33+02  |Portal| Server Shut Down.
+21-08-09 17:48:40+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 17:48:41+02  |Portal| Loaded.
+21-08-09 17:48:41+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 17:48:41+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 17:48:41+02  |Portal| AMP starting on 4006
+21-08-09 17:48:41+02  |Portal| Telnet starting on 4000
+21-08-09 17:48:41+02  |Portal| Websocket starting on 4002
+21-08-09 17:48:41+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 17:48:41+02  |Portal| Portal starting server ... 
+21-08-09 17:48:53+02  |Portal| Unhandled Error
+	Traceback (most recent call last):
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\log.py", line 101, in callWithLogger
+	    return callWithContext({"system": lp}, func, *args, **kw)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\log.py", line 85, in callWithContext
+	    return context.call({ILogContext: newCtx}, func, *args, **kw)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\context.py", line 83, in callWithContext
+	    return func(*args, **kw)
+	--- <exception caught here> ---
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\internet\selectreactor.py", line 149, in _doReadOrWrite
+	    why = getattr(selectable, method)()
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\internet\tcp.py", line 247, in doRead
+	    return self._dataReceived(data)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\internet\tcp.py", line 252, in _dataReceived
+	    rval = self.protocol.dataReceived(data)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\protocols\basic.py", line 554, in dataReceived
+	    why = self.rawDataReceived(data)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\http.py", line 706, in rawDataReceived
+	    self.handleResponseEnd()
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\proxy.py", line 82, in handleResponseEnd
+	    self.father.finish()
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\server.py", line 279, in finish
+	    return http.Request.finish(self)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\http.py", line 1131, in finish
+	    raise RuntimeError(
+	builtins.RuntimeError: Request.finish called on a request after its connection was lost; use Request.notifyFinish to keep track of this.
+	
+21-08-09 17:49:49+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 17:49:49+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 17:49:49+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 17:49:49+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 17:49:49+02  |Portal| Main loop terminated.
+21-08-09 17:49:49+02  |Portal| Server Shut Down.
+21-08-09 17:49:49+02  |Portal| Server Shut Down.
+21-08-09 17:49:59+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 17:50:00+02  |Portal| Loaded.
+21-08-09 17:50:00+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 17:50:00+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 17:50:00+02  |Portal| AMP starting on 4006
+21-08-09 17:50:00+02  |Portal| Telnet starting on 4000
+21-08-09 17:50:00+02  |Portal| Websocket starting on 4002
+21-08-09 17:50:00+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 17:50:01+02  |Portal| Portal starting server ... 
+21-08-09 17:50:12+02  |Portal| Unhandled Error
+	Traceback (most recent call last):
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\log.py", line 101, in callWithLogger
+	    return callWithContext({"system": lp}, func, *args, **kw)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\log.py", line 85, in callWithContext
+	    return context.call({ILogContext: newCtx}, func, *args, **kw)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\context.py", line 83, in callWithContext
+	    return func(*args, **kw)
+	--- <exception caught here> ---
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\internet\selectreactor.py", line 149, in _doReadOrWrite
+	    why = getattr(selectable, method)()
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\internet\tcp.py", line 247, in doRead
+	    return self._dataReceived(data)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\internet\tcp.py", line 252, in _dataReceived
+	    rval = self.protocol.dataReceived(data)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\protocols\basic.py", line 554, in dataReceived
+	    why = self.rawDataReceived(data)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\http.py", line 706, in rawDataReceived
+	    self.handleResponseEnd()
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\proxy.py", line 82, in handleResponseEnd
+	    self.father.finish()
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\server.py", line 279, in finish
+	    return http.Request.finish(self)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\http.py", line 1131, in finish
+	    raise RuntimeError(
+	builtins.RuntimeError: Request.finish called on a request after its connection was lost; use Request.notifyFinish to keep track of this.
+	
+21-08-09 17:51:12+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=51147)
+21-08-09 17:51:12+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59879)
+21-08-09 17:51:16+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59628)
+21-08-09 17:57:58+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55194)
+21-08-09 17:57:58+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60948)
+21-08-09 17:58:27+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 17:58:27+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 17:58:27+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 17:58:27+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 17:58:27+02  |Portal| Main loop terminated.
+21-08-09 17:58:27+02  |Portal| Server Shut Down.
+21-08-09 17:58:27+02  |Portal| Server Shut Down.
+21-08-09 17:58:34+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 17:58:35+02  |Portal| Loaded.
+21-08-09 17:58:35+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 17:58:35+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 17:58:35+02  |Portal| AMP starting on 4006
+21-08-09 17:58:35+02  |Portal| Telnet starting on 4000
+21-08-09 17:58:35+02  |Portal| Websocket starting on 4002
+21-08-09 17:58:35+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 17:58:36+02  |Portal| Portal starting server ... 
+21-08-09 17:59:44+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60370)
+21-08-09 18:01:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58350)
+21-08-09 18:01:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59577)
+21-08-09 18:01:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=52735)
+21-08-09 18:01:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56043)
+21-08-09 18:01:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=61897)
+21-08-09 18:01:23+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55817)
+21-08-09 18:07:53+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63728)
+21-08-09 18:07:53+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57737)
+21-08-09 18:10:00+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63385)
+21-08-09 18:10:22+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=62945)
+21-08-09 18:14:03+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 18:14:03+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 18:14:03+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 18:14:03+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 18:14:03+02  |Portal| Main loop terminated.
+21-08-09 18:14:03+02  |Portal| Server Shut Down.
+21-08-09 18:14:03+02  |Portal| Server Shut Down.
+21-08-09 18:14:17+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 18:14:18+02  |Portal| Loaded.
+21-08-09 18:14:18+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 18:14:18+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 18:14:18+02  |Portal| AMP starting on 4006
+21-08-09 18:14:18+02  |Portal| Telnet starting on 4000
+21-08-09 18:14:18+02  |Portal| Websocket starting on 4002
+21-08-09 18:14:18+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 18:14:19+02  |Portal| Portal starting server ... 
+21-08-09 18:15:28+02  |Portal| Unhandled Error
+	Traceback (most recent call last):
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\log.py", line 101, in callWithLogger
+	    return callWithContext({"system": lp}, func, *args, **kw)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\log.py", line 85, in callWithContext
+	    return context.call({ILogContext: newCtx}, func, *args, **kw)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\python\context.py", line 83, in callWithContext
+	    return func(*args, **kw)
+	--- <exception caught here> ---
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\internet\selectreactor.py", line 149, in _doReadOrWrite
+	    why = getattr(selectable, method)()
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\internet\tcp.py", line 247, in doRead
+	    return self._dataReceived(data)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\internet\tcp.py", line 252, in _dataReceived
+	    rval = self.protocol.dataReceived(data)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\protocols\basic.py", line 554, in dataReceived
+	    why = self.rawDataReceived(data)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\http.py", line 706, in rawDataReceived
+	    self.handleResponseEnd()
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\proxy.py", line 82, in handleResponseEnd
+	    self.father.finish()
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\server.py", line 279, in finish
+	    return http.Request.finish(self)
+	  File "D:\Taltanis_DEV\mudenv\Lib\site-packages\twisted\web\http.py", line 1131, in finish
+	    raise RuntimeError(
+	builtins.RuntimeError: Request.finish called on a request after its connection was lost; use Request.notifyFinish to keep track of this.
+	
+21-08-09 18:16:34+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59215)
+21-08-09 18:16:45+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 18:16:45+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 18:16:45+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 18:16:45+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 18:16:45+02  |Portal| Main loop terminated.
+21-08-09 18:16:45+02  |Portal| Server Shut Down.
+21-08-09 18:16:45+02  |Portal| Server Shut Down.
+21-08-09 18:16:56+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 18:16:57+02  |Portal| Loaded.
+21-08-09 18:16:57+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 18:16:57+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 18:16:57+02  |Portal| AMP starting on 4006
+21-08-09 18:16:57+02  |Portal| Telnet starting on 4000
+21-08-09 18:16:57+02  |Portal| Websocket starting on 4002
+21-08-09 18:16:57+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 18:16:58+02  |Portal| Portal starting server ... 
+21-08-09 18:18:03+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60236)
+21-08-09 18:18:03+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55769)
+21-08-09 18:20:45+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 18:20:45+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 18:20:45+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 18:20:45+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 18:20:45+02  |Portal| Main loop terminated.
+21-08-09 18:20:45+02  |Portal| Server Shut Down.
+21-08-09 18:20:45+02  |Portal| Server Shut Down.
+21-08-09 18:20:51+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 18:20:52+02  |Portal| Loaded.
+21-08-09 18:20:52+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 18:20:52+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 18:20:52+02  |Portal| AMP starting on 4006
+21-08-09 18:20:52+02  |Portal| Telnet starting on 4000
+21-08-09 18:20:52+02  |Portal| Websocket starting on 4002
+21-08-09 18:20:52+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 18:20:53+02  |Portal| Portal starting server ... 
+21-08-09 18:22:03+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55567)
+21-08-09 18:22:06+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60921)
+21-08-09 18:22:57+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 18:22:57+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 18:22:57+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 18:22:57+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 18:22:57+02  |Portal| Main loop terminated.
+21-08-09 18:22:57+02  |Portal| Server Shut Down.
+21-08-09 18:22:57+02  |Portal| Server Shut Down.
+21-08-09 18:23:12+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 18:23:14+02  |Portal| Loaded.
+21-08-09 18:23:14+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 18:23:14+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 18:23:14+02  |Portal| AMP starting on 4006
+21-08-09 18:23:14+02  |Portal| Telnet starting on 4000
+21-08-09 18:23:14+02  |Portal| Websocket starting on 4002
+21-08-09 18:23:14+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 18:23:14+02  |Portal| Portal starting server ... 
+21-08-09 18:23:51+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 18:23:51+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 18:23:51+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 18:23:51+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 18:23:51+02  |Portal| Main loop terminated.
+21-08-09 18:23:51+02  |Portal| Server Shut Down.
+21-08-09 18:23:51+02  |Portal| Server Shut Down.
+21-08-09 18:23:57+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 18:23:59+02  |Portal| Loaded.
+21-08-09 18:23:59+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 18:23:59+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 18:23:59+02  |Portal| AMP starting on 4006
+21-08-09 18:23:59+02  |Portal| Telnet starting on 4000
+21-08-09 18:23:59+02  |Portal| Websocket starting on 4002
+21-08-09 18:23:59+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 18:23:59+02  |Portal| Portal starting server ... 
+21-08-09 18:25:06+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57776)
+21-08-09 18:25:14+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=50723)
+21-08-09 18:28:07+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60455)
+21-08-09 18:28:07+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55784)
+21-08-09 18:31:59+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 18:31:59+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 18:31:59+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 18:31:59+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 18:31:59+02  |Portal| Main loop terminated.
+21-08-09 18:31:59+02  |Portal| Server Shut Down.
+21-08-09 18:31:59+02  |Portal| Server Shut Down.
+21-08-09 18:32:05+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 18:32:06+02  |Portal| Loaded.
+21-08-09 18:32:06+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 18:32:06+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 18:32:06+02  |Portal| AMP starting on 4006
+21-08-09 18:32:06+02  |Portal| Telnet starting on 4000
+21-08-09 18:32:06+02  |Portal| Websocket starting on 4002
+21-08-09 18:32:06+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 18:32:07+02  |Portal| Portal starting server ... 
+21-08-09 18:33:56+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=61946)
+21-08-09 18:33:56+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53289)
+21-08-09 18:33:56+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56543)
+21-08-09 18:33:56+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58288)
+21-08-09 18:33:56+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=51727)
+21-08-09 18:33:57+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53036)
+21-08-09 18:42:25+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=62773)
+21-08-09 18:42:33+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53082)
+21-08-09 18:51:52+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=64650)
+21-08-09 18:52:47+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59356)
+21-08-09 18:54:09+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=53118)
+21-08-09 18:54:10+02  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59629)
+21-08-09 19:03:54+02  |Portal| (TCP Port 4001 Closed)
+21-08-09 19:03:54+02  |Portal| (TCP Port 4000 Closed)
+21-08-09 19:03:54+02  |Portal| (TCP Port 4006 Closed)
+21-08-09 19:03:54+02  |Portal| (TCP Port 4002 Closed)
+21-08-09 19:03:54+02  |Portal| Main loop terminated.
+21-08-09 19:03:54+02  |Portal| Server Shut Down.
+21-08-09 19:03:54+02  |Portal| Server Shut Down.
+21-08-09 19:04:00+02  |Portal| Loading d:\taltanis_dev\evennia\evennia\server\portal\portal.py...
+21-08-09 19:04:02+02  |Portal| Loaded.
+21-08-09 19:04:02+02  |Portal| twistd 21.7.0 (d:\taltanis_dev\mudenv\scripts\python.exe 3.9.6) starting up.
+21-08-09 19:04:02+02  |Portal| reactor class: twisted.internet.selectreactor.SelectReactor.
+21-08-09 19:04:02+02  |Portal| AMP starting on 4006
+21-08-09 19:04:02+02  |Portal| Telnet starting on 4000
+21-08-09 19:04:02+02  |Portal| Websocket starting on 4002
+21-08-09 19:04:02+02  |Portal| Webserver-proxy starting on 4001
+21-08-09 19:04:02+02  |Portal| Portal starting server ... 

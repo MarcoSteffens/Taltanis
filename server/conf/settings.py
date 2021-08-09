@@ -36,7 +36,7 @@ SERVERNAME = "Taltanis"
 
 # Short one-sentence blurb describing your game. Shown under the title
 # on the website and could be used in online listings of your game etc.
-GAME_SLOGAN = "Spannende Abenteuer in einer phantastischen Welt."
+GAME_SLOGAN = "Nur ein weiteres Fantasy-MUD."
 
 # Local time zone for this installation. All choices can be found here:
 # http://www.postgresql.org/docs/8.0/interactive/datetime-keywords.html#DATETIME-TIMEZONE-SET-TABLE
@@ -85,6 +85,14 @@ MULTISESSION_MODE = 2
 #SECRET_KEY = "changeme!(*#&*($&*(#*(&SDFKJJKLS*(@#KJAS"
 SECRET_KEY = "eZ3czgHfgOi2lJ4NSEBWfUmQamqKN8iHnsfGLmqX"
 
+
+INSTALLED_APPS += (
+        # ...
+        "evennia_wiki",
+)
+
+WIKI_CAN_READ = "anonymous"
+WIKI_CAN_WRITE = "builder"
 
 ######################################################################
 # Settings given in secret_settings.py override those in this file.
