@@ -46,16 +46,19 @@ class Character(DefaultCharacter):
         self.db.charisma = 0
 
         self.db.resilience = 0
-        self.db.karma = 0
-        self.db.hitpoints = 0
-        self.db.spellpoints = 0
-        self.db.endurance = 0   # Ausdauer
-        self.db.mana = 0
-        self.db.essence = 0
 
+        self.db.hitpoints = 0
+
+        self.db.endurance = 0   # Ausdauer
+
+        self.db.spellpoints = 0
+        self.db.essence = 0
+        self.db.mana = 0
+        self.db.inspiration = 0
+
+        self.db.karma = 0
         self.db.reputation = 0   # Ansehen
 
-        self.db.inspiration = 0
 
     def get_abilities(self):
         """

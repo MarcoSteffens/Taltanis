@@ -36,7 +36,7 @@ SERVERNAME = "Taltanis"
 
 # Short one-sentence blurb describing your game. Shown under the title
 # on the website and could be used in online listings of your game etc.
-GAME_SLOGAN = "Nur ein weiteres Fantasy-MUD."
+GAME_SLOGAN = "Hier sind Drachen!"  # "HC SVNT DRACONES"
 
 # Local time zone for this installation. All choices can be found here:
 # http://www.postgresql.org/docs/8.0/interactive/datetime-keywords.html#DATETIME-TIMEZONE-SET-TABLE

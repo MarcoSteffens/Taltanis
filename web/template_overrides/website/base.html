@@ -16,12 +16,18 @@
 
     <!-- Base CSS -->
     <link rel="stylesheet" type="text/css" href="{% static "website/css/app.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "website/css/my.css" %}">
 
     {% comment %}
     Allows for loading custom styles without overriding the base site styles
     {% endcomment %}
     <!-- Custom CSS -->
     <link rel="stylesheet" type="text/css" href="{% static "website/css/custom.css" %}">
+
+      <link href="{% static 'fonts/CormorantInfant-Regular.ttf' %}" rel="stylesheet" type="text/css">
+      <link href="{% static 'fonts/OpenSans-Regular.ttf' %}" rel="stylesheet" type="text/css">
+      <link href="{% static 'fonts/RobotoSlab-Regular.ttf' %}" rel="stylesheet" type="text/css">
+      <!--link href="{% static 'fonts/roboto-slab-v13-latin-regular.ttf' %}" rel="stylesheet" type="text/css"-->
 
     {% block header_ext %}
     {% endblock %}
